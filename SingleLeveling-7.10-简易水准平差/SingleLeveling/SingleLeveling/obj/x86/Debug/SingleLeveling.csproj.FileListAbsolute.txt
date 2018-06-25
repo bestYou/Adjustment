@@ -1,0 +1,11 @@
+D:\code\cShap\coverVC\SingleLeveling\SingleLeveling\bin\Debug\SingleLeveling.exe
+D:\code\cShap\coverVC\SingleLeveling\SingleLeveling\bin\Debug\SingleLeveling.pdb
+D:\code\cShap\coverVC\SingleLeveling\SingleLeveling\obj\x86\Debug\SingleLeveling.Form1.resources
+D:\code\cShap\coverVC\SingleLeveling\SingleLeveling\obj\x86\Debug\SingleLeveling.Properties.Resources.resources
+D:\code\cShap\coverVC\SingleLeveling\SingleLeveling\obj\x86\Debug\SingleLeveling.csproj.GenerateResource.Cache
+D:\code\cShap\coverVC\SingleLeveling\SingleLeveling\obj\x86\Debug\SingleLeveling.exe
+D:\code\cShap\coverVC\SingleLeveling\SingleLeveling\obj\x86\Debug\SingleLeveling.pdb
+D:\code\cShap\coverVC\SingleLeveling\SingleLeveling\obj\x86\Debug\SingleLeveling.csprojResolveAssemblyReference.cache
+D:\code\cShap\coverVC\SingleLeveling\SingleLeveling\obj\x86\Debug\SingleLeveling.FormMain.resources
+G:\111文档\SingleLeveling\SingleLeveling\SingleLeveling\obj\x86\Debug\SingleLeveling.exe
+G:\111文档\SingleLeveling\SingleLeveling\SingleLeveling\obj\x86\Debug\SingleLeveling.pdb

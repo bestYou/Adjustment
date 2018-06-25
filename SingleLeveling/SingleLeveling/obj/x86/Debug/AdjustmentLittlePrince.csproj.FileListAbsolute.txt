@@ -10,3 +10,5 @@ D:\code\cShap\coverVC\SingleLeveling\SingleLeveling\obj\x86\Debug\SingleLeveling
 D:\code\cShap\coverVC\SingleLeveling\SingleLeveling\obj\x86\Debug\AdjustmentLittlePrince.csprojResolveAssemblyReference.cache
 G:\111文档\coverVC\SingleLeveling\SingleLeveling\obj\x86\Debug\SingleLeveling.exe
 G:\111文档\coverVC\SingleLeveling\SingleLeveling\obj\x86\Debug\SingleLeveling.pdb
+C:\Users\bestYou\Documents\Adjustment\SingleLeveling\SingleLeveling\obj\x86\Debug\SingleLeveling.exe
+C:\Users\bestYou\Documents\Adjustment\SingleLeveling\SingleLeveling\obj\x86\Debug\SingleLeveling.pdb
