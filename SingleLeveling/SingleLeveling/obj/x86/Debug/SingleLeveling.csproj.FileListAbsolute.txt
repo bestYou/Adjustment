@@ -1,0 +1,10 @@
+D:\code\cShap\coverVC\SingleLeveling\SingleLeveling\bin\Debug\SingleLeveling.exe
+D:\code\cShap\coverVC\SingleLeveling\SingleLeveling\bin\Debug\SingleLeveling.pdb
+D:\code\cShap\coverVC\SingleLeveling\SingleLeveling\obj\x86\Debug\SingleLeveling.Properties.Resources.resources
+D:\code\cShap\coverVC\SingleLeveling\SingleLeveling\obj\x86\Debug\SingleLeveling.csproj.GenerateResource.Cache
+D:\code\cShap\coverVC\SingleLeveling\SingleLeveling\obj\x86\Debug\SingleLeveling.exe
+D:\code\cShap\coverVC\SingleLeveling\SingleLeveling\obj\x86\Debug\SingleLeveling.pdb
+D:\code\cShap\coverVC\SingleLeveling\SingleLeveling\obj\x86\Debug\SingleLeveling.csprojResolveAssemblyReference.cache
+D:\code\cShap\coverVC\SingleLeveling\SingleLeveling\obj\x86\Debug\SingleLeveling.FormMain.resources
+D:\code\cShap\coverVC\SingleLeveling\SingleLeveling\obj\x86\Debug\SingleLeveling.FormLevel.resources
+D:\code\cShap\coverVC\SingleLeveling\SingleLeveling\obj\x86\Debug\SingleLeveling.FormGPS.resources
